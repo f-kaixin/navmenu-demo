@@ -1,0 +1,23 @@
+{
+  "id": "1502103",
+  "name": "练习",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7937660",
+      "name": "方向-向下",
+      "font_class": "arrow-down",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "7937663",
+      "name": "方向-向右",
+      "font_class": "arrow-right",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+$menu_height: 40px;
+$submenu_background: #fff;
+$submenu_color: #41a2ff;
+$menu_item_background: #f2f2f2;
+$menu_item_color: #797979;
+$active_background: #41a2ff;
+$active_color: #fff;
+
+@mixin hover_style() {
+    &:hover {
+        color: $active_color;
+        background: $active_background;
+    }
+}
